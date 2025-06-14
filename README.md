@@ -11,14 +11,14 @@ This project uses machine learning techniques to predict customer churn based on
 
 ## 📁 Project Structure
 customer-churn-prediction/
-│
-├── data/ # Contains dataset files (raw and/or processed)
-│
-├── notebooks/ # Jupyter notebooks with data analysis and modeling
-│
-├── requirements.txt # Python dependencies needed to run the project
-│
-├── README.md # Project overview and instructions (this file)
+- │
+- ├── data/ # Contains dataset files (raw and/or processed)
+- │
+- ├── notebooks/ # Jupyter notebooks with data analysis and modeling
+- │
+- ├── requirements.txt # Python dependencies needed to run the project
+- │
+- ├── README.md # Project overview and instructions (this file)
 
 ## 🧰 Tools & Libraries
 
